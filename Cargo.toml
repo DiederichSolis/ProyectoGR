@@ -1,10 +1,10 @@
 [package]
-name = "raycasting"
+name = "HelloWindows"
 version = "0.1.0"
 edition = "2021"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
 [dependencies]
-glam = "0.28.0"
-sdl2 = "0.34"
+minifb = "0.17"
+nalgebra-glm = "0.5"
+image = "0.23"
+rodio = "0.16"

@@ -1,1 +1,0 @@
-/Users/diederichsolis/Documents/SOFTWARE/ProyectoGR/target/debug/raycasting: /Users/diederichsolis/Documents/SOFTWARE/ProyectoGR/src/main.rs /Users/diederichsolis/Documents/SOFTWARE/ProyectoGR/src/raycasting.rs
